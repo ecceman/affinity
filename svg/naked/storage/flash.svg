@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="46.727818"
+   height="36.890381"
+   viewBox="0 0 46.727817 36.890381"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="flash.svg"
+   version="1.0"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /><dc:creator><cc:Agent><dc:title>Luca Ferretti &lt;elle.uca@libero.it&gt;</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>media flash removable</rdf:li></rdf:Bag></dc:subject><dc:description>A flash removable media, such as SD</dc:description><cc:license
+         rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/LGPL/2.1/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/SourceCode" /></cc:License></rdf:RDF></metadata><defs
+   id="defs23">
+		
+	
+			
+			
+			
+			
+			
+			
+		</defs><sodipodi:namedview
+   inkscape:window-height="946"
+   inkscape:window-width="1270"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="true"
+   inkscape:grid-bbox="true"
+   inkscape:grid-points="true"
+   inkscape:zoom="15.108773"
+   inkscape:cx="23.363909"
+   inkscape:cy="18.44519"
+   inkscape:window-x="205"
+   inkscape:window-y="51"
+   inkscape:current-layer="svg2"
+   inkscape:document-rotation="0"
+   inkscape:window-maximized="0"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+	<path
+   style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:7.41129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 3.7726381,3.6868878 V 28.391179 l 4.940857,4.940858 H 43.299503 V 3.6868878 Z"
+   id="path9"
+   sodipodi:nodetypes="cccccc" />
+	
+<path
+   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.816329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 41.773478,25.07808 v 6.530645 l -5.714315,-3.265322 z"
+   id="path2776" /><path
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.3307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 3.3692231,26.000493 H 14.275224"
+   id="path4548"
+   sodipodi:nodetypes="cc" /><path
+   id="path5435"
+   d="M 3.3402684,19.403102 H 14.24627"
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.3307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" /><path
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.3307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 3.3268485,12.993884 H 14.232849"
+   id="path5437"
+   sodipodi:nodetypes="cc" /><path
+   id="path5439"
+   d="M 3.40797,6.5622883 H 14.313971"
+   style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.3307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   sodipodi:nodetypes="cc" /></svg>
