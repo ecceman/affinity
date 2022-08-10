@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2876"
+   style="fill-rule:evenodd"
+   sodipodi:docname="gauge.svg"
+   xml:space="preserve"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   viewBox="0 0 100 100"
+   width="100"
+   height="100"><sodipodi:namedview
+   id="namedview2888"
+   bordercolor="#666666"
+   inkscape:pageshadow="2"
+   guidetolerance="10"
+   pagecolor="#ffffff"
+   gridtolerance="10"
+   inkscape:window-maximized="0"
+   inkscape:zoom="2.6641777"
+   objecttolerance="10"
+   borderopacity="1"
+   inkscape:current-layer="g3015"
+   inkscape:cx="30.755465"
+   inkscape:cy="46.023245"
+   inkscape:window-y="239"
+   inkscape:window-x="113"
+   inkscape:window-width="957"
+   showgrid="false"
+   inkscape:pageopacity="0"
+   inkscape:window-height="598" />
+ <defs
+   id="defs2878">
+  <style
+   id="style2880"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3672"
+   type="text/css">
+    .fil0 {fill:#0A0B0C}
+  </style>
+ <style
+   id="style3731"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3757"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3002"
+   type="text/css">
+    .fil0 {fill:white}
+    .fil1 {fill:black}
+  </style>
+ <style
+   id="style3027"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3076"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3133"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3182"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3223"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ <style
+   id="style3264"
+   type="text/css">
+    .str0 {stroke:#1F1A17;stroke-width:0.139357}
+    .fil0 {fill:none}
+    .fil1 {fill:#1F1A17}
+  </style>
+ <style
+   id="style3357"
+   type="text/css">
+    .fil1 {fill:black}
+    .fil0 {fill:white}
+  </style>
+ </defs>
+<g
+   id="g3015"
+   style="fill-rule:evenodd"
+   transform="matrix(1.0293,0,0,1.0293,-61.575,51.633467)"><g
+     id="g834"
+     transform="translate(0.10281138,-0.09906831)"
+     style="stroke:none;stroke-opacity:1;fill:#4d4d4d;fill-opacity:1"><path
+       inkscape:connector-curvature="0"
+       d="m 130.23701,16.921595 c 4.32606,-5.154959 6.70001,-11.6809634 6.70001,-18.4103801 0,-15.8162069 -12.82559,-28.6413669 -28.64137,-28.6413669 -15.816199,0 -28.641358,12.825602 -28.641358,28.6413669 0,6.7294167 2.373957,13.2554211 6.70001,18.4103801 l 1.343341,1.600989 -5.649783,4.741502 1.580339,1.882737 5.649782,-4.741502 -1.580338,-1.882737 -3.201979,2.686593 -1.343318,-1.600989 C 78.952762,14.603577 76.358368,8.4715741 75.66367,2.0253872 l -3.211265,0.2247045 -0.171595,-2.4526685 3.211264,-0.22470447 c -0.01127,-0.35305336 -0.01703,-0.70707953 -0.01703,-1.06159223 0,-8.4139813 3.169477,-16.0874975 8.377722,-21.8960305 l -2.318903,-2.239307 1.707692,-1.768649 2.319345,2.239748 c 5.623693,-5.403697 13.167205,-8.824123 21.50601,-9.131452 v -3.221657 h 2.45842 v 3.221657 c 8.33881,0.307307 15.88254,3.727534 21.50601,9.131452 l 2.31935,-2.239748 1.70769,1.768164 -2.3189,2.239748 c 5.20802,5.808532 8.37771,13.4820488 8.37771,21.8960303 0,0.3545127 -0.006,0.70853882 -0.0176,1.06159219 l 3.21127,0.22421807 -0.17157,2.45266854 -3.21127,-0.2242181 c -0.69483,6.4461868 -3.28914,12.578189 -7.48872,17.582801 l -1.34332,1.600989 2.44824,2.053847 -1.57985,1.88371 -5.65022,-4.740395 1.57985,-1.883711 1.34332,-1.600989 z"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:2.21100569;stroke:none;stroke-opacity:1;fill-opacity:1"
+       id="path3388" /><path
+       inkscape:connector-curvature="0"
+       d="m 98.785461,4.2237901 3.402069,3.5486639 4.26791,-4.7105473 c 0.66527,0.2689688 1.40036,0.3963006 2.16398,0.3456685 2.7034,-0.1789808 4.75079,-2.51700869 4.57147,-5.2204053 -0.0467,-0.7051117 -0.24093,-1.3654507 -0.54923,-1.9530475 l 13.04427,-14.3976264 -14.93358,12.4282837 c -0.81427,-0.4720275 -1.7731,-0.7159235 -2.78211,-0.6490407 -2.7034,0.178981 -4.75079,2.5170088 -4.57147,5.2204053 0.0305,0.46218862 0.12441,0.90571641 0.2724,1.32169501 L 98.785059,4.2236575 Z"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:2.21100569;stroke:none;stroke-opacity:1;fill-opacity:1"
+       id="path3386" /><path
+       inkscape:connector-curvature="0"
+       d="m 108.2961,-49.42492 c -26.473461,0 -47.937019,21.463557 -47.937019,47.9370193 0,26.4734617 21.463558,47.9370197 47.937019,47.9370197 26.47346,0 47.93702,-21.463558 47.93702,-47.9370197 0,-26.4734623 -21.46356,-47.9370193 -47.93702,-47.9370193 z m 0,7.364237 c 22.40062,0 40.57279,18.17216 40.57279,40.5727823 0,22.4006217 -18.17217,40.5727817 -40.57279,40.5727817 -22.400621,0 -40.572781,-18.17216 -40.572781,-40.5727817 0,-22.4006223 18.17216,-40.5727823 40.572781,-40.5727823 z"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:1.11158311;stroke:none;stroke-opacity:1;fill-opacity:1"
+       id="path3384" /></g></g><metadata
+   id="metadata20"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+           rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
