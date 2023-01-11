@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="clock.svg"
+   viewBox="0 0 100 100"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="100"
+   height="100">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="base"
+     fit-margin-left="0"
+     inkscape:zoom="3.0199483"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="47.360027"
+     inkscape:cy="57.177716"
+     inkscape:window-maximized="0"
+     showgrid="false"
+     fit-margin-right="0"
+     inkscape:snap-global="false"
+     inkscape:document-units="px"
+     bordercolor="#666666"
+     inkscape:window-x="292"
+     inkscape:window-y="97"
+     fit-margin-bottom="0"
+     inkscape:window-width="753"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:window-height="662"
+     fit-margin-top="0">
+    <inkscape:grid
+       id="grid3800"
+       enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       type="xygrid"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <g
+     id="layer1"
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     transform="translate(-72.424,-660.52)">
+    <circle
+       id="path3755"
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:3.78753757;fill-opacity:1;stroke-opacity:1"
+       cx="131.36455"
+       cy="701.57941"
+       r="38.707802" />
+    <path
+       id="path3757"
+       style="fill:none;stroke:#4d4d4d;stroke-width:3.35051394;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="M 94.072307,701.82987 H 108.63976" />
+    <path
+       id="path3759"
+       d="m 154.08977,701.82987 h 14.56745"
+       style="fill:none;stroke:#4d4d4d;stroke-width:3.35051394;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3761"
+       d="m 131.36455,664.24584 v 14.56745"
+       style="fill:none;stroke:#4d4d4d;stroke-width:3.35051394;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3763"
+       style="fill:none;stroke:#4d4d4d;stroke-width:3.35051394;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="M 131.36455,724.26374 V 738.8312" />
+    <path
+       id="path3765"
+       d="m 146.36465,727.55744 3.75462,6.50321"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3767"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 112.85951,669.22354 3.75462,6.5032" />
+    <path
+       id="path3769"
+       d="m 99.180675,682.78438 6.503205,3.75462"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3790"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 157.19701,716.39149 6.5032,3.75462" />
+    <path
+       id="path3792"
+       d="m 157.20575,686.82393 6.5032,-3.75461"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3794"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 98.988385,720.06977 6.503205,-3.75461" />
+    <path
+       id="path3796"
+       d="m 146.32823,675.81677 3.75462,-6.5032"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3798"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 112.77065,733.90448 3.75462,-6.5032" />
+    <path
+       id="path3802"
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.9134903;stroke-linecap:square;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 131.17808,701.68419 9.67716,-26.01455" />
+    <path
+       id="path3804"
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#4d4d4d;stroke-width:3.35051394;stroke-linecap:square;stroke-miterlimit:0;fill-opacity:1;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 143.47738,709.98764 -12.07059,-8.3253" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 92.153741,744.29464 h 21.368649 v 10.59604 H 92.036003 v -2.29581 h -3.119936 v -6.12216 h 3.178805 z"
+       id="path5315"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1412"
+       transform="matrix(1.0666667,0,0,1.0666667,-354.14127,637.20258)"
+       style="fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1387"
+         d="m 403.17563,105.3657 h 7.43027"
+         style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1387-3"
+         d="m 406.89076,109.08083 v -7.43027"
+         style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 122.60009,749.59266 h 7.92562"
+       id="path1387-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.17223859;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1418"
+       width="0.060577337"
+       height="4.4665761"
+       x="89.489288"
+       y="747.34064" />
+  </g>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>simple clock</dc:title>
+        <dc:date>2012-12-18T11:15:37</dc:date>
+        <dc:description>A simple clock pointing three past four.</dc:description>
+        <dc:source>https://openclipart.org/detail/173843/simple-clock-by-matzekatze-173843</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>matzekatze</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>day</rdf:li>
+            <rdf:li>hour</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>measure</rdf:li>
+            <rdf:li>minute</rdf:li>
+            <rdf:li>picto</rdf:li>
+            <rdf:li>pictogram</rdf:li>
+            <rdf:li>symbol</rdf:li>
+            <rdf:li>time</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
